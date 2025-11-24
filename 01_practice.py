@@ -2,7 +2,7 @@
 
 a = input("Enter first no. ")
 a = int(a)
-
+ 
 b = input("Enter first no. ")
 b = int(b)
 
